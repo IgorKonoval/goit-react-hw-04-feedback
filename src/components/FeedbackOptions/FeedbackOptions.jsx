@@ -1,5 +1,6 @@
 import React from 'react';
 import { DivButtons, Button } from './FeedbackOptions.styled';
+
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
     <DivButtons>
